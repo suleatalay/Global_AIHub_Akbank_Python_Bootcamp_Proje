@@ -1,0 +1,19 @@
+* Lütfen Pizzanızı Seçiniz:
+1: Klasik Pizza --> 55₺
+2: Margarita -----> 85₺
+3: Türk Pizza ----> 60₺
+4: Sade Pizza ----> 50₺
+5: New York Pizza-> 100₺
+6: Kantin Pizza --> 30₺
+* Seçmek İstediğiniz Ekstra Malzemeler:
+11: Zeytin --> 2.25₺
+12: Mantar --> 3.55₺
+13: Peynir --> 5.50₺
+14: Et ------> 11.50₺
+15: Soğan ---> 1.25₺
+16: Mısır ---> 3.50₺
+17: Mozzarella -> 8.75₺
+18: Parmesan  ---> 9.75₺
+19: Tulum --> 6.25₺
+20: Rokfor ---> 8.25₺
+* Seçiminiz İçin Teşekkür Ederiz!
